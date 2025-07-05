@@ -1,7 +1,7 @@
 # ☀️ Solar Impact & Financial Insights Dashboard | Power BI Project
 
 ### 🌞 Solar Dashboard Overview  
-![Solar Dashboard](screenshots/Solar%20Dashboard.png)
+![Solar Dashboard](Solar%20Dashboard.png)
 
 ## 📊 Project Overview
 

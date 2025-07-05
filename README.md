@@ -1,6 +1,7 @@
 # ☀️ Solar Impact & Financial Insights Dashboard | Power BI Project
 
-![Dashboard Screenshot](![Solar Dashboard](Solar%20Dashboard.png)
+### 🌞 Solar Dashboard Overview  
+![Solar Dashboard](screenshots/Solar%20Dashboard.png)
 
 ## 📊 Project Overview
 
@@ -21,14 +22,18 @@ It serves as a **living, perennial report** — with monthly data manually updat
 These cards highlight high-level numbers driving ROI and system performance.
 
 ### ✅ 2. Monthly Solar Production
+
+📆 Monthly Generation Details  
 ![Monthly Solar Details](screenshots/Monthly%20Solar%20Details.png)
 
 Visualizes how much solar power was generated each month, helping understand seasonal trends and panel performance.
 
 ### ✅ 3. Solar Savings Journey
-Tracks:
+
+ 💰 Savings Breakdown  
 ![Solar Savings Details](screenshots/Solar%20Savings%20Details.png)
 
+Tracks:
 - The hypothetical **bill amount without solar**
 - The actual **bill amount with solar + EMI**
 - The **Net Monthly Savings**

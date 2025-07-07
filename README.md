@@ -1,8 +1,8 @@
 # 🌞 Rooftop Solar Impact & Financial Insights Dashboard
 
 Dashboard overview 
-### 🔹 Solar Impact Overview
-![Solar Dashboard](Solar%20Dashboard.png)
+
+![Solar Dashboard](Solar%20Dashboard1.png)
 
 ## 📌 About the Project
 
@@ -33,7 +33,8 @@ This dashboard is a **real-time, personal project** built using Power BI to trac
 ### 💰 Financial Insights
 
 ### 🔹 Monthly Billing & Savings Journey
-![Solar Savings Details](Solar%20Savings%20Details.png)
+
+![Solar Savings Details](Solar%20Savings%20Details1.png)
 
 - **Monthly Savings (Before vs After Solar)**
 - **Actual Bill Paid vs EMI Paid**
@@ -43,7 +44,8 @@ This dashboard is a **real-time, personal project** built using Power BI to trac
 ### 📈 Performance Monitoring
 
 ### 🔹 Monthly Performance Insight
-![Monthly Solar Details](Monthly%20Solar%20Details1.png)
+
+![Monthly Solar Details](Monthly%20Solar%20Details%201.png)
 
 ### 🔍 Usage Breakdown
 - Comparison of **2025 (Solar) vs 2024 (Non-Solar)** consumption

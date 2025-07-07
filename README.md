@@ -1,73 +1,73 @@
 # 🌞 Rooftop Solar Impact & Financial Insights Dashboard
 
-Dashboard overview 
-
-![Solar Dashboard](Solar%20Dashboard1.png)
-
 ## 📌 About the Project
 
-This dashboard is a **real-time, personal project** built using Power BI to track the performance of a rooftop solar plant installed at my residence. The goal is to analyze solar energy generation, usage, cost savings, and ROI in a way that is **visually intuitive, scalable, and decision-oriented**.
+This dashboard is a **real-time, personal project** built using Power BI to analyze the performance of a 5kW rooftop solar plant installed at my residence. The goal is to measure the effectiveness of solar adoption in terms of **cost savings, energy independence, and ROI** through clean, interactive visualizations.
+
+It is a **perennial dashboard**—updated monthly with fresh data, and designed to grow over time.
 
 ## 💼 Tools & Technologies Used
-- **Power BI** (Data Modeling, DAX, Conditional Formatting, Tooltips)
-- **Excel** (Data Cleaning & Calculation)
-- **Custom Visuals**: Line & Column Chart, Waterfall, Doughnut, KPI, Tooltips
-- **DAX Measures** for Savings, ROI, Monthly Evaluation, and Insight Tags
+- **Power BI** (DAX, Custom Tooltips, Visual Storytelling)
+- **Excel** (Manual Monthly Entry, Base Calculations)
+- **Data Modeling & Relationships**
+- **Advanced DAX for Dynamic Insights**
 
-## 📊 Key Dashboard Features
+## 📊 Key Features & Visuals
 
-### ⚡️ Energy Performance Highlights
-
-- **Total Units Produced**
-- **Units Exported to Grid**
-- **Self-Consumption vs Export**
-- **Monthly Solar Generation Trends**
-  - **Monthly Performance Insight Tooltip**:
-  - Tracks each month’s solar generation against expected benchmark (600 units)
-  - Labels months as:
-    - ✅ **Expected or Above**
-    - ⚠️ **Slightly Below**
-    - ❌ **Underperformance**
-  - Tooltip includes performance message (generated vs expected)
-
-### 💰 Financial Insights
-
-### 🔹 Monthly Billing & Savings Journey
-
-![Solar Savings Details](Solar%20Savings%20Details1.png)
-
-- **Monthly Savings (Before vs After Solar)**
-- **Actual Bill Paid vs EMI Paid**
-- **Cumulative Net Savings**
-- **ROI Progress Tracker**
-
-### 📈 Performance Monitoring
-
-### 🔹 Monthly Performance Insight
+### 🔹 Monthly Solar Production & Performance Labels  
+Tracks solar generation per month with performance labels (Above Expectation / Within Range / Below Expectation) using conditional formatting and custom tooltips.
 
 ![Monthly Solar Details](Monthly%20Solar%20Details%201.png)
 
-### 🔍 Usage Breakdown
-- Comparison of **2025 (Solar) vs 2024 (Non-Solar)** consumption
-- Visual breakdown of **Grid vs Solar Source Consumption**
+### 🔹 Solar Impact & Financial Overview  
+Compares energy consumption before and after solar, with insights on self-consumption, dependency on grid, and usage patterns.
 
----
+![Solar Dashboard](Solar%20Dashboard1.png)
 
-## 📸 Dashboard Snapshots
+### 🔹 Billing & ROI Journey  
+This dual-axis visual shows:
+- Total Bill Without Solar  
+- Effective Bill With Solar (after applying EMI, solar revenue)  
+- Net Savings  
+- Cumulative ROI Tracker
 
-## 💡 What Makes This Project Special?
+![Solar Savings Details](Solar%20Savings%20Details1.png)
 
-- ✅ **Built from scratch using real data** from a personal solar installation.
-- 📈 Tracks solar impact in a **perennial**, month-by-month format.
-- 🧠 Includes DAX-based **smart insights and benchmarks**.
-- 🌱 Great for **personal energy management** and **renewable ROI tracking**.
-- 💬 Powerful tooltip summaries for **narrative storytelling**.
+## 🔍 Insights Generated
 
-## 🙌 Final Note
+- 📈 Monthly generation trend vs benchmark (20 units/day → 600 units/month)
+- 🔁 Grid dependency before vs after solar
+- 💡 Self-consumption vs export ratio
+- 💰 Total savings vs investment tracking (including EMI impact)
+- 📊 Real ROI progress month by month
+- 🧠 Tooltip-based micro insights on every month
 
-As solar continues to scale, dashboards like these can help **every homeowner** evaluate their investment clearly.
+## 🧮 DAX Measures Used
 
-⚡ If you’re someone who *can*, **switch to solar now**—for both cost savings and a greener tomorrow.
+- `PerformanceLabel` for expected vs actual generation
+- `EffectiveBill = ActualBillPaid + EMI - Solar Revenue`
+- `NetSavings = TotalBill - EffectiveBill`
+- `ROI Progress % = CumulativeSavings / TotalCostOfPlant`
+
+## 📅 How This Helps
+
+This dashboard:
+- Educates about solar investment decisions  
+- Helps track ROI in real terms  
+- Allows comparison of performance over months  
+- Acts as a **personalized decision-support system**
+
+## 🔁 Scalable Design
+
+- New month? Just **update the Excel sheet** and refresh Power BI.
+- All visuals, insights, and tooltips update automatically.
+- **Calendar table** manages month order and filtering smoothly.
+
+## 🌟 Final Note
+
+This is **my own home solar story**, built not just for analytics but to inspire others. With climate goals becoming urgent, projects like these can prove how **data + green energy = smart investment**.
+
+If you can, **go solar today**—for savings and sustainability. 🌱
 
 ### 👤 Project by: **Jagadeesh Chandrasetty**
 **Data Analyst & BI Specialist** | Power BI | Excel | SQL | Python  

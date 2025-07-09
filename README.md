@@ -1,6 +1,6 @@
 # 🌞 Solar Imapact & Financial Insights Dashboard 
 
-![Home Page](home%20page.png)
+![Home Page](Home%20Page.png)
 
 ## 📌 Project Overview
 
@@ -36,7 +36,7 @@ This Power BI dashboard offers a **comprehensive and personalized view** of sola
 
 ## 📦 File Highlights
 - Snapshots:
-  - ![Home](home%20page.png)
+  - ![Home](Home%20Page.png)
   - ![Dashboard View](Solar%20Dashboard2.png)
   - ![Savings Breakdown](Solar%20Savings%20Details1.png)
   - ![Monthly Insights](Monthly%20Solar%20Details1.png)

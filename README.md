@@ -39,7 +39,7 @@ This Power BI dashboard offers a **comprehensive and personalized view** of sola
   - ![Home](Home%20Page.png)
   - ![Dashboard View](Solar%20Dashboard2.png)
   - ![Savings Breakdown](Solar%20Savings%20Details1.png)
-  - ![Monthly Insights](Monthly%20Solar%20Details1.png)
+  - ![Monthly Insights](Monthly%20Solar%20Details%201.png)
 
 ## 🔁 Data Refresh Logic
 
